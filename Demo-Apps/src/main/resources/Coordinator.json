@@ -7,7 +7,7 @@
     "uuid": "5ac89cba-4a92-2866-2094-13837fbd582e", 
     "extra": "", 
     "type": "oozie-workflow2", 
-    "description": "java workflow, which is independent subworkflow", 
+    "description": "java workflow, which is independent sub-workflow", 
     "is_history": false, 
     "parent_directory": [
       "a68783c1-6d6f-4eda-bf66-df4b54bb7563", 
@@ -104,7 +104,7 @@
     "uuid": "3c4db03d-681f-ee72-1801-459a9b6b1d55", 
     "extra": "", 
     "type": "oozie-coordinator2", 
-    "description": "Schedule JavaParentChild every 10 min", 
+    "description": "Schedule JavaParentChild every 10 minutes", 
     "is_history": false, 
     "parent_directory": [
       "a68783c1-6d6f-4eda-bf66-df4b54bb7563", 
